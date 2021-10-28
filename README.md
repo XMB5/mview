@@ -6,4 +6,4 @@ Quickly look at tracks in a video file
 ```
 [user@laptop~ $] mview video.mkv
 ```
-![screenshot](./screenshot.png)
+![screenshot](./screenshot2.png)
